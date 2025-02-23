@@ -61,8 +61,8 @@ Contributions are welcome! Feel free to submit **issues, feature requests, or pu
 This project is licensed under the **MIT License** – feel free to use and modify it as you like!
 
 ## 🔗 Links
-- **GitHub Repository:** [your-repo-link](https://github.com/muzamilchouhan/react-virtual-keyboard)
-- **Live Demo:** [your-live-demo-link](https://keyboardxmuzamil.netlify.app/)
+- **GitHub Repository:** (https://github.com/muzamilchouhan/react-interactive-virtual-keyboard)
+- **Live Demo:** (https://keyboardxmuzamil.netlify.app/)
 
 ---
 ⭐ If you like this project, don't forget to **star** the repo! 🚀
