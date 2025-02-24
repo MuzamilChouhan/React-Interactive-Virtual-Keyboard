@@ -57,9 +57,6 @@ This project is a **React-based interactive virtual keyboard** that responds to 
 ## 🏆 Contributing
 Contributions are welcome! Feel free to submit **issues, feature requests, or pull requests**.
 
-## 📜 License
-This project is licensed under the **MIT License** – feel free to use and modify it as you like!
-
 ## 🔗 Links
 - **GitHub Repository:** (https://github.com/muzamilchouhan/react-interactive-virtual-keyboard)
 - **Live Demo:** (https://keyboardxmuzamil.netlify.app/)
