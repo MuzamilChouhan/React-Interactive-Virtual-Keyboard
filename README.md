@@ -53,7 +53,6 @@ This project is a **React-based interactive virtual keyboard** that responds to 
 - Click on the **on-screen keys** to type into the text area.
 - Use the **Backspace, Enter, and Space** keys as expected.
 
-
 ## 🏆 Contributing
 Contributions are welcome! Feel free to submit **issues, feature requests, or pull requests**.
 
